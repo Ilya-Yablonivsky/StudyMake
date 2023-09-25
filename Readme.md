@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Яблоновский 22ПТ2
 ==================================
